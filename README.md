@@ -1,17 +1,13 @@
-### Lê Đăng Quang
+### Le Dang Quang
+Code and Cook
+
+I am a Vietnamese student.
 
 
-<!--
-**Quanghusst/Quanghusst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am studying programming at my university, and I am one of the 8 billion inhabitants on Earth.
 
-Here are some ideas to get you started:
+### Languge
+C, C++, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That all!
