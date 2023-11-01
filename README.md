@@ -1,5 +1,5 @@
 ### Lê Đăng Quang
-![image](https://github.com/Quanghusst/Quanghusst/assets/116963134/266b7858-3901-4fed-b469-15dc7e7cf4ed)
+
 
 <!--
 **Quanghusst/Quanghusst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
