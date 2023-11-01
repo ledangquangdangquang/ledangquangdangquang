@@ -11,3 +11,9 @@ I am studying programming at my university, and I am one of the 8 billion inhabi
 C, C++, HTML, CSS
 
 That all!
+
+
+
+![Alt Text](https://media.giphy.com/media/AYKv7lXcZSJig/giphy.gif)
+
+
