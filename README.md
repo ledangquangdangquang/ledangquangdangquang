@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">I am studying programming at my university, and I am one of the 8 billion inhabitants on Earth.</h3>
+
+### Le Dang Quang
+Code and Cook
+
+I am a Vietnamese student.
+
+
+### About me
+I am studying programming at my university, and I am one of the 8 billion inhabitants on Earth.
 
 
 
-- **Code and Cook**
+
+![Alt Text](https://media.giphy.com/media/AYKv7lXcZSJig/giphy.gif)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
