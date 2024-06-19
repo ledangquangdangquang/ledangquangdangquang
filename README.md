@@ -16,7 +16,6 @@ I am studying programming at my university, and I am one of the 8 billion inhabi
 
 
 
-<h3 align="left">Connect with me: <a href="ldquang1@gmail.com"> </h3>
 <p align="left">
 </p>
 
