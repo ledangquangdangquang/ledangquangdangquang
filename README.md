@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">Real man in VietNam</h3>
+<h3 align="center">I am studying programming at my university, and I am one of the 8 billion inhabitants on Earth.</h3>
 
-- 📫 How to reach me **ldquang1@gmail.com**
 
-- ⚡ Fun fact **Code and Cook**
+
+- **Code and Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
