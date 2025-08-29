@@ -7,8 +7,7 @@ I am studying programming at my university, and I am one of the 8 billion inhabi
 
 ![Alt Text](https://media.giphy.com/media/AYKv7lXcZSJig/giphy.gif)
 # GitHub Stats:
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangquangdangquang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |  [![GitHub Streak](https://streak-stats.demolab.com?user=ledangquangdangquang&theme=catppuccin-mocha&border_radius=5.4&card_width=497)](https://git.io/streak-stats) |
-|---|---|
+[![GitHub Streak](https://streak-stats.demolab.com?user=ledangquangdangquang&theme=catppuccin-mocha&border_radius=5.4&card_width=400)](https://git.io/streak-stats) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ledangquangdangquang&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
 ---
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ledangquangdangquang) 
